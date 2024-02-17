@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GetCpuInfoByCPUID", "GetCpuInfoByCPUID\GetCpuInfoByCPUID.vcxproj", "{02E9AB70-1174-4337-BA79-B5E938085007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Debug|x64.ActiveCfg = Debug|x64
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Debug|x64.Build.0 = Debug|x64
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Debug|x86.ActiveCfg = Debug|Win32
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Debug|x86.Build.0 = Debug|Win32
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Release|x64.ActiveCfg = Release|x64
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Release|x64.Build.0 = Release|x64
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Release|x86.ActiveCfg = Release|Win32
+		{02E9AB70-1174-4337-BA79-B5E938085007}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA6EB21-8BC1-49A4-A07D-5B669D087B33}
+	EndGlobalSection
+EndGlobal
